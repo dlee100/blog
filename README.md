@@ -1,11 +1,13 @@
 # Project 2: Personal Blog – version 1.0
 Using HTML/CSS/JS
 
-# Summary: This personal blog page is for a user to enter a blog about anything. User can make multiple categories to organize the blog spaces.
+# Summary: 
+This personal blog page is for a user to enter a blog about anything. User can make multiple categories to organize the blog spaces.
 
-# Purpose: To further refine my front-end programming skills. I also want a personal area to type out my thoughts. 
+# Purpose: 
+To further refine my front-end programming skills. I also want a personal area to type out my thoughts. 
 
-# Criteria:
+# Criteria to make this project successful:
 1.	Use HTML/CSS/JS mostly by scratch. (This is to practice my skills)
     a.	Plug ins and libraries may be used.
 2.	Follow the wireframe as closely as necessary. (HTML, CSS)
